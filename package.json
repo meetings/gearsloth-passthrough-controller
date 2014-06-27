@@ -1,5 +1,5 @@
 {
-  "name": "gearsloth-mem-adapter",
+  "name": "gearsloth-passthrough-controller",
   "version": "0.0.1",
   "description": "Passthrough controller for gearsloth",
   "repository": {
