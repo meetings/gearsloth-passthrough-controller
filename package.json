@@ -1,0 +1,24 @@
+{
+  "name": "gearsloth-mem-adapter",
+  "version": "0.0.1",
+  "description": "Passthrough controller for gearsloth",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/meetings/gearsloth-passthrough-controller.git"
+  },
+  "bugs": {
+    "url": "https://github.com/meetings/gearsloth-passthrough-controller/issues"
+  },
+  "keywords": [
+    "gearman",
+    "gearsloth",
+    "adapter"
+  ],
+  "author": "Meetin.gs (http://www.meetin.gs/)",
+  "license": "MIT",
+  "homepage": "https://github.com/meetings/gearsloth-passthrough-controller",
+  "main": "./index.js",
+  "dependencies": {
+    "gearsloth": "^0.2.2"
+  }
+}
