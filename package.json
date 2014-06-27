@@ -1,6 +1,6 @@
 {
   "name": "gearsloth-passthrough-controller",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Passthrough controller for gearsloth",
   "repository": {
     "type": "git",
