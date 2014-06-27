@@ -16,7 +16,7 @@ function Passthrough(conf) {
       func: function(payload, worker) {
         var task = JSON.parse(payload.toString());
         that.workHandler(task, worker);
-      });
+      }
     }
   });
 }
